@@ -1,0 +1,16 @@
+Programar um fluxo de potência monofásico (SEP equilibrado) em qualquer linguagem de programação como: Matlab, Octave, Python, C++, C builder, C#, Delphi, Java, Fortran etc etc...
+
+Sistemas a serem simulados.
+a) Sistema de 4 barras
+b) Sistema de 9 barras
+Na instalação do programa Anarede e/ou Anatem, na pasta exemplo encontram-se os sistemas 4 barras e 9 barras.
+     
+Comparar os resultados obtidos no seu programa com o programa ANAREDE do CEPEL.
+  
+Realizar um relatório básico (sucinto) referente ao trabalho, 
+O relatório deverá mostrar a solução analítica passo a passo do sistema de 4 barras.
+O relatório (e a apresentação) deverá mostrar as comparações (erros máximos e mínimos) para os dois sistema (4 barras e 9 barras) explicar a diferença dos erros e finalmente indicar as conclusões do Trabalho. 
+
+O código do programa deverá ser entregue em formato pdf ou word e na linguagem a qual foi programada (Octave, Matlab, Fortran, Python,.. etc)
+
+Apresentar o trabalho em aproximadamente 12 min.
